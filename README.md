@@ -1,6 +1,6 @@
 ### Hi there Abdulmohsen here 👋
 
-Here are some ideas to get you started:
+These are some fun facts about me:
 
 - 🔭 I’m currently working on ... Android Studio
 - 🌱 I’m currently learning ... Java
