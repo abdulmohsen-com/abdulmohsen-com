@@ -1,6 +1,5 @@
 ### Hi there Abdulmohsen here 👋
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Android Studio
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... By Using This Github
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Almost Fluent In Spanish.
--->
